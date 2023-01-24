@@ -117,7 +117,7 @@ function telaFracoContra(heroi){
   section.setAttribute('class','sobretela');
   const sair = document.createElement('img');
   sair.setAttribute('class','sobretela');
-  sair.setAttribute('src','../public/img/sair.png')
+  sair.setAttribute('src','public/img/sair.png')
   sair.setAttribute('name','sair')
   sair.setAttribute('class','sobretela2');
   container.setAttribute('class','fortecontra')
