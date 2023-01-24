@@ -11,3 +11,4 @@
 - Onde terão funcionalidades de personalização avancadas
 
 - Em versões futuras irão ter mais interatividade e utilidades
+# Outro fator importante é que na próxima versão organizarei o código em arquivos javascript diferentes
