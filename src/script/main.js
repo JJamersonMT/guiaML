@@ -52,7 +52,7 @@ function criaTela(hero){
   a.setAttribute('class','sobretela');
   a.setAttribute('href','/')
   h1.innerHTML = hero.nome;
-  img.setAttribute('src','../public/img/sair.png')
+  img.setAttribute('src','public/img/sair.png')
   img.setAttribute('name','sair')
   div.setAttribute('class','sobre');
   const botoes = document.createElement('div');
@@ -78,7 +78,7 @@ function telaForteContra(heroi){
   section.setAttribute('class','sobretela');
   const sair = document.createElement('img');
   sair.setAttribute('class','sobretela');
-  sair.setAttribute('src','../public/img/sair.png')
+  sair.setAttribute('src','public/img/sair.png')
   sair.setAttribute('name','sair')
   sair.setAttribute('class','sobretela2');
   container.setAttribute('class','fortecontra')
