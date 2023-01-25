@@ -1,7 +1,7 @@
 [
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/saber.jpg",
+    "url":"public/img/perfil/saber.jpg",
     "classe":"assassino",
     "nome":"saber",
     "fortecontra":[
@@ -9,10 +9,20 @@
     ],"fracocontra":[
       "saber","kaja"
     ]
+  },{
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/aamon.png",
+    "classe":"assassino",
+    "nome":"aamon",
+    "fortecontra":[
+      "ciclops","hylos","hanzo"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/marsha.jpg",
+    "url":"public/img/perfil/marsha.png",
     "classe":"soldado",
     "nome":"marsha",
     "fortecontra":[
@@ -23,7 +33,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/martis.jpg",
+    "url":"public/img/perfil/martis.png",
     "classe":"soldado",
     "nome":"martis",
     "fortecontra":[
@@ -34,7 +44,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/rafaela.png",
+    "url":"public/img/perfil/rafaela.png",
     "classe":"suporte",
     "nome":"rafaela",
     "fortecontra":[
@@ -45,7 +55,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/roger.jpg",
+    "url":"public/img/perfil/roger.png",
     "classe":"assassino",
     "nome":"roger",
     "fortecontra":[
@@ -56,7 +66,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/valir.jpg",
+    "url":"public/img/perfil/valir.jpg",
     "classe":"mago",
     "nome":"valir",
     "fortecontra":[
@@ -67,7 +77,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/zask.jpg",
+    "url":"public/img/perfil/zask.png",
     "classe":"mago",
     "nome":"zask",
     "fortecontra":[
@@ -78,7 +88,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/zilong.jpg",
+    "url":"public/img/perfil/zilong.jpg",
     "classe":"assassino",
     "nome":"zilong",
     "fortecontra":[
@@ -89,7 +99,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/yisunshin.jpg",
+    "url":"public/img/perfil/yisunshin.jpg",
     "classe":"assassino",
     "nome":"yisunshin",
     "fortecontra":[
@@ -100,7 +110,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/xborg.jpg",
+    "url":"public/img/perfil/xborg.png",
     "classe":"soldado",
     "nome":"xborg",
     "fortecontra":[
@@ -111,7 +121,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/thamuz.jpg",
+    "url":"public/img/perfil/thamuz.png",
     "classe":"soldado",
     "nome":"thamuz",
     "fortecontra":[
@@ -122,7 +132,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/moskov.jpg",
+    "url":"public/img/perfil/moskov.png",
     "classe":"atirador",
     "nome":"moskov",
     "fortecontra":[
@@ -133,7 +143,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/minssithar.jpg",
+    "url":"public/img/perfil/minssithar.png",
     "classe":"soldado",
     "nome":"minssithar",
     "fortecontra":[
@@ -144,7 +154,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/lolita.jpg",
+    "url":"public/img/perfil/lolita.png",
     "classe":"tank",
     "nome":"lolita",
     "fortecontra":[
@@ -155,7 +165,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/ling.jpg",
+    "url":"public/img/perfil/ling.png",
     "classe":"assassino",
     "nome":"ling",
     "fortecontra":[
@@ -166,7 +176,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/hellcurt.jpg",
+    "url":"public/img/perfil/hellcurte.png",
     "classe":"assassino",
     "nome":"hellcurt",
     "fortecontra":[
@@ -176,7 +186,7 @@
     ]
   },
   {
-    "url":"public/img/karrie.jpg",
+    "url":"public/img/perfil/karrie.png",
     "classe":"atirador",
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
     "nome":"karrie",
@@ -188,7 +198,7 @@
 
   },
   {
-    "url":"public/img/kaja.jpg",
+    "url":"public/img/perfil/kaja.png",
     "classe":"suporte",
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
     "nome":"kaja",
@@ -200,7 +210,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/hayabusa.jpg",
+    "url":"public/img/perfil/hayabusa.png",
     "classe":"assassino",
     "nome":"hayabusa",
     "fortecontra":[
@@ -211,7 +221,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/hanzo.jpg",
+    "url":"public/img/perfil/hanzo.png",
     "classe":"assassino",
     "nome":"hanzo",
     "fortecontra":[
@@ -222,7 +232,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/Lesley.jpg",
+    "url":"public/img/perfil/Lesley.png",
     "classe":"atirador",
     "nome":"lesley",
     "fortecontra":[
@@ -233,7 +243,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/gord.jpg",
+    "url":"public/img/perfil/gord.png",
     "classe":"mago",
     "nome":"gord",
     "fortecontra":[
@@ -244,7 +254,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/franco.jpg",
+    "url":"public/img/perfil/franco.png",
     "classe":"tank",
     "classes":"suporte",
     "nome":"franco",
@@ -256,7 +266,7 @@
   },
   {
     "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
-    "url":"public/img/fanny.jpg",
+    "url":"public/img/perfil/fanny.png",
     "classe":"assassino",
     "nome":"fanny",
     "fortecontra":[
@@ -267,10 +277,299 @@
   },
   {
     "descricao":"granger e um atirador letal",
-    "url":"public/img/granger.jpg",
+    "url":"public/img/perfil/granger.png",
     "classe":"atirador",
     "classes":"",
     "nome":"granger",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"COMECA DAQUI",
+    "url":"public/img/perfil/akai.png",
+    "classe":"tank",
+    "nome":"akai",
+    "fortecontra":[
+      "ciclops","lolita","hanzo","aamon","saber","kaja"
+    ],"fracocontra":[
+      "saber","kaja","ciclops","lolita","hanzo","aamon"
+    ]
+  },{
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/aldous.png",
+    "classe":"soldado",
+    "nome":"aldous",
+    "fortecontra":[
+      "ciclops","hylos","hanzo", "saber","kaja","lolita","hanzo","aamon"
+    ],"fracocontra":[
+      "saber","kaja","ciclops","lolita","hanzo","aamon"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/alice.png",
+    "classe":"mago",
+    "nome":"alice",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/alpha.jpg",
+    "classe":"soldado",
+    "nome":"alpha",
+    "fortecontra":[
+      "ciclops","lolita", "saber","kaja","hanzo","aamon"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/alucard.jpg",
+    "classe":"assassino",
+    "nome":"alucard",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/angela.png",
+    "classe":"suporte",
+    "nome":"angela",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/argus.png",
+    "classe":"soldado",
+    "nome":"argus",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/atlas.png",
+    "classe":"tank",
+    "nome":"atlas",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/aurora.png",
+    "classe":"mago",
+    "nome":"aurora",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/badang.png",
+    "classe":"soldado",
+    "nome":"badang",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/balmond.png",
+    "classe":"soldado",
+    "nome":"balmond",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/bane.png",
+    "classe":"soldado",
+    "nome":"bane",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/beatrix.png",
+    "classe":"atirador",
+    "nome":"beatrix",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/belerick.jpg",
+    "classe":"tank",
+    "nome":"belerick",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/benedetta.jpg",
+    "classe":"soldado",
+    "nome":"benedetta",
+    "classes":"assassino",
+    "fortecontra":[
+      "lancelot","fanny"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/brody.jpg",
+    "classe":"atirador",
+    "nome":"brody",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/bruno.png",
+    "classe":"atirador",
+    "nome":"bruno",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "url":"public/img/perfil/carmila.jpg",
+    "classe":"suporte",
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "nome":"carmila",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+
+  },
+  {
+    "url":"public/img/perfil/cecilion.jpg",
+    "classe":"mago",
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "nome":"cecilion",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","alucard"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/changee.png",
+    "classe":"mago",
+    "nome":"changee",
+    "fortecontra":[
+      "ciclops","lesley"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/chou.png",
+    "classe":"soldado",
+    "nome":"chou",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/ciclops.png",
+    "classe":"mago",
+    "nome":"ciclops",
+    "fortecontra":[
+      "ciclops","hanzo"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/claude.png",
+    "classe":"atirador",
+    "nome":"claude",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/clint.jpg",
+    "classe":"atirador",
+    "classes":" ",
+    "nome":"clint",
+    "fortecontra":[
+      "ciclops","lolita"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"kaja por ser um heroi que possui muitas skills de apoio e capacidade de defesa e um excelente suporte",
+    "url":"public/img/perfil/uranus.png",
+    "classe":"tank",
+    "nome":"uranus",
+    "fortecontra":[
+      "lesley","clint"
+    ],"fracocontra":[
+      "saber","kaja"
+    ]
+  },
+  {
+    "descricao":"granger e um atirador letal",
+    "url":"public/img/perfil/diaxo.png",
+    "classe":"soldado",
+    "classes":"",
+    "nome":"diaxo",
     "fortecontra":[
       "ciclops","lolita"
     ],"fracocontra":[
