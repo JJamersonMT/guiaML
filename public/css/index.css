@@ -189,7 +189,6 @@ section{
 .fortecontra{
   position: fixed;
   width: 300px;
-  height: 80%;
   margin: 10% 50px;
   z-index: 1000;
   background-color: white;
