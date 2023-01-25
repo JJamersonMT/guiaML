@@ -1,6 +1,6 @@
 # guiaML
 
-#https://jjamersonmt.github.io/guiaML/
+https://jjamersonmt.github.io/guiaML/
 
 # O CÓDIGO NÃO ESTÁ ADAPTADO PARA TRATAR DE RESOLUÇÕES DE TELAS
 - ELE FOI ELABORADO EM UM ESPAÇO ESTÁTICO DE 400PX
