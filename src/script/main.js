@@ -127,7 +127,7 @@ function telaFracoContra(heroi){
   //------criacao do container vvvvvvv
   const h1 = document.createElement('h1')
   h1.setAttribute('class','sobretela');
-  h1.innerHTML='forte contra'
+  h1.innerHTML='fraco contra'
   container.appendChild(sair)
   container.appendChild(h1)
 
